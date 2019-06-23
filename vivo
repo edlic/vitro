@@ -1,0 +1,5 @@
+$ git clone https://github.com/vivo-project/Vitro.git Vitro -b maint-rel-1.9
+$ git clone https://github.com/vivo-project/VIVO.git VIVO -b maint-rel-1.9
+$ ls -l
+drwxr-xr-x  user  group  1 Dec 12:00  Vitro
+drwxr-xr-x  user  group  1 Dec 12:00  VIVO
